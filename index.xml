@@ -2,24 +2,24 @@
  
 <item>
 <title>Peliculas</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://2.bp.blogspot.com/-_WCS2MTaqWI/T2yzllwBHtI/AAAAAAAAT74/Z1CqkqYYuyQ/s320/3-logo-peliculas-online.png</thumbnail>
+<fanart>http://martingranados.es/wp-content/uploads/2016/12/peliculas.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/test1.xml</externallink>
 </item>
  
 <item>
 <title>Series</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://www.tvfoodmaps.com/images/browse-tv.png</thumbnail>
+<fanart>http://www.elcivics.com/esl/tv-shows/tv-shows.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/Series.xml</externallink>
 </item>
  
 <item>
 <title>Conciertos</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://www.greatlaketaupo.com/media/76722/musicConcert.png</thumbnail>
+<fanart>http://playlandpark.org/images/HEADERS/concerts650.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/Conciertos.xml</externallink>
 </item>
