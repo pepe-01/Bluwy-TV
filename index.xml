@@ -34,18 +34,26 @@
 
 <item>
 <title>Kids</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.ytimg.com/vi/BrVBTwj2VN8/hqdefault.jpg</thumbnail>
+<fanart>https://www.skytrekadventurepark.com/wp-content/uploads/bc-attraction-kids-and-family-skytrek-adventure-park-revelstoke-01.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/Kids.xml</externallink>
 </item>
 
 <item>
 <title>Retro</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://static1.squarespace.com/static/5551973fe4b094c827fcf105/t/55c15f97e4b0ac1d87709fa4/1438736280366/retro+logo+400.png?format=1000w</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Teletoon_Retro.svg/1280px-Teletoon_Retro.svg.png</fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/Retro.xml</externallink>
+</item>
+
+<item>
+<title>Documentales</title>
+<thumbnail>http://4.bp.blogspot.com/-5Ld7vBhx2mw/VieEwpscEmI/AAAAAAAADd4/dWIXNm0Dn5o/s1600/docs.png</thumbnail>
+<fanart>http://manna.amazingfacts.org/amazingfacts/website/medialibrary/images/collections/af-documentaries-large-457497414.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/Documentales.xml</externallink>
 </item>
 
 <item>
@@ -55,4 +63,6 @@
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
+
+
  
