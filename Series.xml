@@ -9,37 +9,34 @@
 
 <item>
 <title>Arrow</title>
-<thumbnail>http://www.tvfoodmaps.com/images/browse-tv.png</thumbnail>
-<fanart>http://www.elcivics.com/esl/tv-shows/tv-shows.jpg</fanart>
+<thumbnail>https://i1.wp.com/www.zone-six.net/wp-content/uploads/2015/08/ArrowS2iTunesupdated.jpg?resize=860%2C484</thumbnail>
+<fanart>https://images.justwatch.com/backdrop/8578561/s1440/strela</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/Arrow.xml</externallink>
 </item>
 
 <item>
 <title>Flash</title>
-<thumbnail>http://www.tvfoodmaps.com/images/browse-tv.png</thumbnail>
-<fanart>http://www.elcivics.com/esl/tv-shows/tv-shows.jpg</fanart>
+<thumbnail>https://static.next-episode.net/tv-shows-images/huge/the-flash.jpg</thumbnail>
+<fanart>http://images.cwtv.com/images/shows/og-image/the-flash.png</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/Flash.xml</externallink>
 </item>
+
+<item>
+<title>The Walking Dead</title>
+<thumbnail>http://images.amcnetworks.com/amc.com/wp-content/uploads/2017/07/the-walking-dead-8B-key-800x600.jpg</thumbnail>
+<fanart>http://media.comicbook.com/2018/04/the-walking-dead-season-8-1100253-1280x0.jpeg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/TheWalkingDead.xml</externallink>
+</item>
+
+<item>
+<title></title>
+<thumbnail>http://www.tvfoodmaps.com/images/browse-tv.png</thumbnail>
+<fanart>http://www.elcivics.com/esl/tv-shows/tv-shows.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/TheWalkingDead.xml</externallink>
+</item>
  
-<item>
-<title></title>        
-<urlsolve></urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
-<item>
-<title></title>        
-<urlsolve></urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title></title>        
-<urlsolve></urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
