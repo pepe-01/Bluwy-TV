@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>El Chema</title>        
+<title>El Chema </title>        
 <urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/Elchema.xml</externallink>
 </item>
 
 <item>
@@ -13,6 +12,5 @@
 <thumbnail>http://www.tvfoodmaps.com/images/browse-tv.png</thumbnail>
 <fanart>http://www.elcivics.com/esl/tv-shows/tv-shows.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/Elchema.xml</externallink>
-
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/ElChemaTemporada1.xml</externallink>
 
