@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>Señor-de-los-cielos</title>        
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/Senordeloscielos.xml</externallink>
+</item>
+
+<item>
+<title>El CHAPO</title>        
+<urlsolve>http://www.dailymotion.com/video/x6b1jfx</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/Elchapo.xml</externallink>
+</item>
+
+<item>
+<title>El Chema</title>        
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/Elchema.xml</externallink>
+</item>
+
+<item>
 <title>CUANDO CONOCI AL CHAPO CAPITULO 1 KATE DEL CASTILLO</title>        
 <urlsolve>http://www.dailymotion.com/video/x6b1jfx</urlsolve>
 <thumbnail>https://occ-0-360-358.1.nflxso.net/art/b2b90/dfb670debde87333076fc3670e6b3352f0fb2b90.jpg</thumbnail>
