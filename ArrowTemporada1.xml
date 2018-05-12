@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>Serie </title>        
-<urlsolve></urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>Prueba </title>        
+<urlsolve>https://www.youtube.com/watch?v=xPYIqlnUueA</urlsolve>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Arrow_Season_1_DVD.png/220px-Arrow_Season_1_DVD.png</thumbnail>
+<fanart>https://tv-fanatic-res.cloudinary.com/iu/s--tH3T0EqG--/f_auto,q_auto/v1442532869/slides/1450/oliver-queen-as-green-arrow-leader</fanart>
 </item>
 
 <item>
