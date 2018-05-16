@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>La Pantera Rosa</title>
+<thumbnail>https://i2.wp.com/cinicosdesinope.com/wp-content/uploads/2015/09/caricaturas-pantera-rosa.jpg?resize=590%2C354</thumbnail>
+<fanart>https://static.diariouno.com.ar/adjuntos/212/imagenes/000/352/0000352857.jpeg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/LaPanteraRosa.xml</externallink>
+</item>
+
+<item>
+<title>Los Dukes De Hazzard</title>
+<thumbnail>https://i.ytimg.com/vi/67gig0f4HLo/hqdefault.jpg</thumbnail>
+<fanart>http://media.liveauctiongroup.net/i/13256/13427427_2.jpg?v=8CF3C5C70B7A2B0</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/LosDukesDeHazzard.xml</externallink>
+</item>
+
+<item>
 <title>LOS DUKES DE HAZZARD. Molly del Pantano</title>        
 <urlsolve>https://www.youtube.com/watch?v=Gp4DL4oLFuw</urlsolve>
 <thumbnail>https://upload.wikimedia.org/wikipedia/it/a/a9/The_Dukes_of_Hazzard.png</thumbnail>
