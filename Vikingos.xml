@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>Temporada 1</title>        
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Vikings_Season_1.jpg/220px-Vikings_Season_1.jpg</thumbnail>
+<fanart>https://i2.wp.com/www.uselessdaily.com/wp-content/uploads/2016/06/vikings.jpg?fit=1280%2C720&ssl=1</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/VikingosTemporada1.xml</externallink>
+</item>
+
+<item>
+<title>Temporada 2</title>        
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91e5V4wK46L._SY445_.jpg</thumbnail>
+<fanart>https://cdn.cgmagonline.com/wp-content/uploads/2014/11/vikings-season-2.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/VikingosTemporada2.xml</externallink>
+</item>
+
+<item>
 <title>Temporada 3</title>
 <thumbnail>https://tvshows.biz/wp-content/uploads/Vikings-season-3-poster.jpg</thumbnail>
 <fanart>https://hdonline.eu/images/44217/backdrop-season-3.jpg</fanart>
