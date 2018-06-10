@@ -15,11 +15,27 @@
 <externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/LatinDoctors.xml</externallink>
 
 <item>
+<title>DR. Juan</title>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51KnBOzMcqL._SX329_BO1,204,203,200_.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/media/DAezmD0XoAAiIAT.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/DR.Juan.xml</externallink>
+</item>
+
+<item>
 <title>DRA. Mama</title>
 <thumbnail>http://www.heldahoy.com/wp-content/uploads/2014/12/DRA-MAMA.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/x_w5FQuhUSo/maxresdefault.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/DRA.Mama.xml</externallink>
+
+<item>
+<title>Medicina TV</title>
+<thumbnail>https://pbs.twimg.com/profile_images/789006977758326784/l4Fap0Bb_400x400.jpg</thumbnail>
+<fanart>https://www.medicinatv.com/wp-content/uploads/2017/11/GLAUCOMASSECUNDARIOS_SINROT.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/MedicinaTV.xml</externallink>
+</item>
 
 <item>
 <title>Pediatria Medicina TV</title>
@@ -29,19 +45,19 @@
 <externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/PediatriaMedicinaTV.xml</externallink>
 
 <item>
-<title>Salud Emocional Medicina TV</title>
-<thumbnail>https://videomarketing.medicinatv.com/wp-content/uploads/2017/09/SaludEmocional_ProdVideo-640x520.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/rlx-40pEkwY/maxresdefault.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/SaludEmocionalMedicinaTV.xml</externallink>
-</item>
-
-<item>
 <title>Salud Mujer Medicina TV</title>
 <thumbnail>https://yt3.ggpht.com/a-/AJLlDp1kBzTm5KVF7l91gbn_ooV52Bb-gkWh3EFR3A=s900-mo-c-c0xffffffff-rj-k-no</thumbnail>
 <fanart>https://img.youtube.com/vi/TpbxC_YdM4A/maxresdefault.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/SaludMujerMedicinaTV.xml</externallink>
+</item>
+
+<item>
+<title>Salud Emocional Medicina TV</title>
+<thumbnail>https://videomarketing.medicinatv.com/wp-content/uploads/2017/09/SaludEmocional_ProdVideo-640x520.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/rlx-40pEkwY/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/SaludEmocionalMedicinaTV.xml</externallink>
 </item>
 
 <item>
@@ -53,18 +69,42 @@
 </item>
 
 <item>
-<title>Medicina TV</title>
-<thumbnail>https://pbs.twimg.com/profile_images/789006977758326784/l4Fap0Bb_400x400.jpg</thumbnail>
-<fanart>https://www.medicinatv.com/wp-content/uploads/2017/11/GLAUCOMASSECUNDARIOS_SINROT.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/MedicinaTV.xml</externallink>
-</item>
-
-<item>
 <title>Sexualidad Medicina TV</title>
 <thumbnail>https://lh3.googleusercontent.com/-J4JoDPRHOh8/AAAAAAAAAAI/AAAAAAAAAA4/y7yI573mR8Y/s640/photo.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/LWkX2-8lbFk/maxresdefault.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/SexualidadMedicinaTV.xml</externallink>
+</item>
+
+<item>
+<title>Alergias Medicina TV</title>
+<thumbnail>http://www.medicinatv.com/wp-content/uploads/2014/12/icono-alergias-230x230.png</thumbnail>
+<fanart>https://www.medicinatv.com/wp-content/uploads/2015/02/se-puede-tener-alergia-todo-el-a.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/AlergiasMedicinaTV.xml</externallink>
+</item>
+
+<item>
+<title>Salud Bucal Medicina TV</title>
+<thumbnail>https://lh5.googleusercontent.com/-Ji5H-DPcBr4/AAAAAAAAAAI/AAAAAAAAAA4/dSXQWUD8YsU/photo.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/t79_npBOJrc/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/SaludBucalMedicinaTV.xml</externallink>
+</item>
+
+<item>
+<title>Oftalmologia Medicina TV</title>
+<thumbnail>http://www.medicinatv.com/wp-content/uploads/2014/12/icono-oftalmologia-230x230.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/QfJn5NmrCbY/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/OftalmologiaMedicinaTV.xml</externallink>
+</item>
+
+<item>
+<title>Dermatologia Medicina TV</title>
+<thumbnail>https://videomarketing.medicinatv.com/wp-content/uploads/2017/09/Dermatologia_ProdVideo-640x520.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/MoeoR2J_V80/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/DermatologiaMedicinaTV.xml</externallink>
 </item>
 
