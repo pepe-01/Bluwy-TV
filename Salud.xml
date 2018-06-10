@@ -15,18 +15,18 @@
 <externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/LatinDoctors.xml</externallink>
 
 <item>
-<title>Pediatria Medicina TV</title>
-<thumbnail>https://videomarketing.medicinatv.com/wp-content/uploads/2017/09/Pediatria_ProdVideo-640x520.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/ImiUV0sdrXQ/maxresdefault.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/PediatriaMedicinaTV.xml</externallink>
-
-<item>
 <title>DRA. Mama</title>
 <thumbnail>http://www.heldahoy.com/wp-content/uploads/2014/12/DRA-MAMA.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/x_w5FQuhUSo/maxresdefault.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/DRA.Mama.xml</externallink>
+
+<item>
+<title>Pediatria Medicina TV</title>
+<thumbnail>https://videomarketing.medicinatv.com/wp-content/uploads/2017/09/Pediatria_ProdVideo-640x520.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/ImiUV0sdrXQ/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/PediatriaMedicinaTV.xml</externallink>
 
 <item>
 <title>Salud Emocional Medicina TV</title>
@@ -55,7 +55,7 @@
 <item>
 <title>Medicina TV</title>
 <thumbnail>https://pbs.twimg.com/profile_images/789006977758326784/l4Fap0Bb_400x400.jpg</thumbnail>
-<fanart>http://www.proyectopaula.org/imagenes/en.los.medios.de.comunicacion/medicinatv.png</fanart>
+<fanart>https://www.medicinatv.com/wp-content/uploads/2017/11/GLAUCOMASSECUNDARIOS_SINROT.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/MedicinaTV.xml</externallink>
 </item>
