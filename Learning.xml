@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title></title>        
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Clases De Bailes</title>
+<thumbnail>https://static.comunicae.com/photos/notas/1173344/1484153180_logo_twitter.png</thumbnail>
+<fanart>https://zastask.com/blog/wp-content/uploads/2017/12/CLASES-DE-BAILE2.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/ClasesDeBailes.xml</externallink>
+</item>
+
+<item>
+<title>Clases De Musica</title>
+<thumbnail>http://www.tlcursos.com/sites/default/files/band_music_2.jpg</thumbnail>
+<fanart>http://www.clasesdeperiodismo.com/wp-content/uploads/2015/02/m%C3%BAsica.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/ClasesDeMusica.xml</externallink>
+</item>
+
+<item>
+<title>Clases De Idiomas</title>
+<thumbnail>https://image.jimcdn.com/app/cms/image/transf/dimension=500x10000:format=jpg/path/s9ffd9209840dabc1/image/i06012aa59263bbd9/version/1515840167/image.jpg</thumbnail>
+<fanart>http://www.ee-today.com/wp-content/uploads/2016/02/idiomas.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/ClasesDeIdiomas.xml</externallink>
+</item>
+
+<item>
+<title>Clases De Costura</title>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY2AHxGBhAnaZVzNdgd7wy-7RluCF09aF5_BkYgKO7kKEp9mCY</thumbnail>
+<fanart>https://i.ytimg.com/vi/jCbMQsRq0CI/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/ClasesDeCostura.xml</externallink>
+</item>
+
+
+
+
