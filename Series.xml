@@ -56,11 +56,35 @@
 </item>
 
 <item>
-<title></title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link></link>
-<externallink></externallink>
+<title>El Jefe Infiltrado</title>
+<thumbnail>https://www.profiteditorial.com/wp-content/uploads/2017/10/9788416583836_FRONTAL-400x598.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Yxz7zt8_tSc/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/ElJefeInfiltrado.xml</externallink>
+</item>
+
+<item>
+<title>El Jefe En Tus Zapatos</title>
+<thumbnail>http://i.imgur.com/gy5wKv0.png</thumbnail>
+<fanart>http://mirallesvfx.com/site/wp-content/uploads/2016/10/Captura-de-pantalla-2016-10-23-a-las-10.15.53-PM.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/ElJefeEnTusZapatos.xml</externallink>
+</item>
+
+<item>
+<title>El Jefe Encubierto</title>
+<thumbnail>https://pbs.twimg.com/media/DVPZ739WAAEwvlu.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/mhtgW-IiaCA/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/ElJefeEncubierto.xml</externallink>
+</item>
+
+<item>
+<title>Negociando Con Tiburones</title>
+<thumbnail>https://http2.mlstatic.com/shark-tank-todas-las-temporadas-negociando-con-tiburones-D_NQ_NP_689381-MPE27146606258_042018-F.jpg</thumbnail>
+<fanart>http://dnf.com.mx/wp-content/uploads/2018/04/shark.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/NegociandoConTiburones.xml</externallink>
 </item>
  
 
