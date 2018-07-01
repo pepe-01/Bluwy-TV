@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>Karaoke</title>        
+<title>Karaoke</title>
 <thumbnail>https://www.7oaks.org/Programs/ArtsInThePark/PublishingImages/karaoke.png</thumbnail>
 <fanart>https://vik-karaoke.com/wp-content/uploads/2017/04/Fotolia_96108838_Subscription_Monthly_M.jpg</fanart>
-<link>http://ignoreme</link
+<link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/Karaoke.xml</externallink>
 </item>
-
-
-
 
