@@ -89,6 +89,14 @@
 </item>
 
 <item>
+<title>Fuerza G</title>
+<thumbnail>https://i.ytimg.com/vi/-NGd5cfCtpc/hqdefault.jpg</thumbnail>
+<fanart>https://pm1.narvii.com/6711/b865b736eab47f671e10ef43f88df61a93a5d6df_hq.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/FuerzaG.xml</externallink>
+</item>
+
+<item>
 <title>Mazinger Z</title>
 <thumbnail>http://editorialoceano.cl/online/5229-large_default/mazinger-z-la-enciclopedia.jpg</thumbnail>
 <fanart>https://files.merca20.com/uploads/2017/01/Mazinger-Z-Twitter.jpeg</fanart>
@@ -289,19 +297,34 @@
 </item>
 
 <item>
-<title></title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link></link>
-<externallink></externallink>
+<title>Las Urracas Parlanchinas</title>
+<thumbnail>https://i.ytimg.com/vi/9RIwFXFsAcE/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/2OUxS7Aus1c/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/LasUrracasParlanchinas.xml</externallink>
 </item>
 
 <item>
-<title></title>
+<title>Don Gato Y Su Pandilla</title>
+<thumbnail>https://i2.wp.com/cinicosdesinope.com/wp-content/uploads/2016/01/don-gato-y-su-pandilla-nombres-de-personajes-capitulos.jpg?resize=590%2C400</thumbnail>
+<fanart>http://www.upsocl.com/wp-content/uploads/2016/10/portada-don-gato-1.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/DonGatoYSuPandilla.xml</externallink>
+</item>
+
+<item>
+<title>La Abeja Maya</title>
+<thumbnail>https://imagessl.casadellibro.com/m/ig/7/1831437.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WtfL_313_-4/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/LaAbejaMaya.xml</externallink>
+</item>
+
+<item>
+<title></title>        
+<urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<link></link>
-<externallink></externallink>
 </item>
 
 <item>
@@ -314,7 +337,22 @@
 
 <item>
 <title></title>        
-<urlsolve>https://archive.org/details/night_of_the_living_dead</urlsolve>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link></link>
+<externallink></externallink>
+</item>
+
+<item>
+<title></title>        
+<urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
