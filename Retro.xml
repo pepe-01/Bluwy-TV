@@ -129,6 +129,14 @@
 </item>
 
 <item>
+<title>Tom Y Jerry</title>
+<thumbnail>https://1.bp.blogspot.com/-oa3twnimtl4/VtXAUB7io8I/AAAAAAAAZrs/JQJjsRzZvf0/s400/tom5.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/tKwD-0lFe4c/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/TomYJerry.xml</externallink>
+</item>
+
+<item>
 <title>Piolin y Silvestre</title>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/71LH14fEShL._SY445_.jpg</thumbnail>
 <fanart>https://www.chiquipedia.com/images/piolin.jpg?phpMyAdmin=9ea091c51a5aa3cf876fb3cf0a5f7f3d</fanart>
@@ -321,10 +329,35 @@
 </item>
 
 <item>
-<title></title>        
-<urlsolve></urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>La Hormiga Atomica</title>
+<thumbnail>https://allserieslinamarcela.files.wordpress.com/2009/04/la_hormiga_atomica.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-9zFeHlM3MBs/UT-ED85s-wI/AAAAAAAAAUU/735lf6PSyy8/s1600/162-La+Hormiga+At%25C3%25B3mica%252C+el+super+insecto.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/LaHormigaAtomica.xml</externallink>
+</item>
+
+<item>
+<title>Los Pitufos</title>
+<thumbnail>http://3.bp.blogspot.com/-CsZOqlqyDDE/ThTjXF6-u-I/AAAAAAAAASk/ysqF8HKsPyA/s1600/los+pitufos.jpg</thumbnail>
+<fanart>https://cdn2.actitudfem.com/media/files/smurf_parade.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/LosPitufos.xml</externallink>
+</item>
+
+<item>
+<title>Mandibulin</title>
+<thumbnail>https://i.ytimg.com/vi/nPZ2tEONxy8/hqdefault.jpg</thumbnail>
+<fanart>http://i65.tinypic.com/b5p6wk.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/Mandibulin.xml</externallink>
+</item>
+
+<item>
+<title>Remi</title>
+<thumbnail>https://http2.mlstatic.com/remi-el-nino-de-nadie-latino-dvd-D_NQ_NP_481811-MLA20650617648_032016-F.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/IOl3coE0_Kc/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/Remi.xml</externallink>
 </item>
 
 <item>
@@ -336,10 +369,11 @@
 </item>
 
 <item>
-<title></title>        
-<urlsolve></urlsolve>
+<title></title>
 <thumbnail></thumbnail>
 <fanart></fanart>
+<link></link>
+<externallink></externallink>
 </item>
 
 <item>
@@ -351,11 +385,30 @@
 </item>
 
 <item>
-<title></title>        
-<urlsolve></urlsolve>
+<title></title>
 <thumbnail></thumbnail>
 <fanart></fanart>
+<link></link>
+<externallink></externallink>
 </item>
+
+<item>
+<title></title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link></link>
+<externallink></externallink>
+</item>
+
+<item>
+<title></title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link></link>
+<externallink></externallink>
+</item>
+
+
 
 
 
