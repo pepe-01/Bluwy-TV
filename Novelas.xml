@@ -17,6 +17,14 @@
 </item>
 
 <item>
+<title>La Reina Del Sur</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/0/0b/La-reina-del-sur_poster.jpg</thumbnail>
+<fanart>https://lezwatchtv.com/wp-content/uploads/2016/04/10_LaReinaDelSur_1920x1080_2.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/LaReinaDelSur.xml</externallink>
+</item>
+
+<item>
 <title>Ingobernable</title>
 <thumbnail>https://image.tmdb.org/t/p/w300_and_h450_bestv2/mREc0h6fpGRQ3OEfiWqD9TfudaC.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/fZEUbo9b8ew/maxresdefault.jpg</fanart>
@@ -118,6 +126,14 @@
 <fanart>https://tve-static-telemundo.akamaized.net/prod/image/363/727/El_Cesar_FireTV_1280x720.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/ElCesar.xml</externallink>
+</item>
+
+<item>
+<title>Señora Acero</title>
+<thumbnail>https://rovicorp.staticskynet.be/2/Open/Telemundo_400/Program/24948286/_3by4/_derived_jpg_q90_246x326_m0/se-ora-acero_VR.jpg</thumbnail>
+<fanart>https://girlswithguns.org/wp-content/uploads/2017/03/senora2.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/SenoraAcero.xml</externallink>
 </item>
 
 
