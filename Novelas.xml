@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>El Capo</title>
+<thumbnail>https://foxtelecolombia.com/wp-content/uploads/2017/05/440x660-elcapo.jpg</thumbnail>
+<fanart>https://la9internet.files.wordpress.com/2013/04/el-capo-2.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pepe-01/Bluwy-TV/master/ElCapo.xml</externallink>
+</item>
+
+<item>
 <title>El Señor De Los Cielos</title>        
 <urlsolve>http://www.dailymotion.com/video/x6b1jfx</urlsolve>
 <thumbnail>http://radioturquesa.fm/wp-content/uploads/2017/11/tvn-24052017115959.jpg</thumbnail>
