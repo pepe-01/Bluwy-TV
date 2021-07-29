@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>Yetim / Cap 1</title>        
+<urlsolve>https://ok.ru/video/1896460257854</urlsolve>
+<thumbnail>https://dondever.online/wp-content/uploads/2020/10/Cocukluk-Novela-turca-en-espanol-capitulo-1-sub-en-espanol-ver-online-2020.jpg</thumbnail>
+<fanart>https://turkish123.com/wp-content/uploads/Cocukluk-with-English-Subtitles.jpg</fanart>
+</item>
+
+<item>
+<title>Yetim / Cap 2</title>        
+<urlsolve>https://ok.ru/video/1896486472254</urlsolve>
+<thumbnail>https://dondever.online/wp-content/uploads/2020/10/Cocukluk-Novela-turca-en-espanol-capitulo-1-sub-en-espanol-ver-online-2020.jpg</thumbnail>
+<fanart>https://turkish123.com/wp-content/uploads/Cocukluk-with-English-Subtitles.jpg</fanart>
+</item>
+
+<item>
+<title>Yetim / Cap 3</title>        
+<urlsolve>https://ok.ru/video/1896515635774</urlsolve>
+<thumbnail>https://dondever.online/wp-content/uploads/2020/10/Cocukluk-Novela-turca-en-espanol-capitulo-1-sub-en-espanol-ver-online-2020.jpg</thumbnail>
+<fanart>https://turkish123.com/wp-content/uploads/Cocukluk-with-English-Subtitles.jpg</fanart>
+</item>
+
+<item>
+<title>Yetim Cap 4</title>        
+<urlsolve>https://ok.ru/video/1897841887806</urlsolve>
+<thumbnail>https://dondever.online/wp-content/uploads/2020/10/Cocukluk-Novela-turca-en-espanol-capitulo-1-sub-en-espanol-ver-online-2020.jpg</thumbnail>
+<fanart>https://turkish123.com/wp-content/uploads/Cocukluk-with-English-Subtitles.jpg</fanart>
+</item>
+
+<item>
+<title>Yetim / Cap 5</title>        
+<urlsolve>https://ok.ru/video/1897869412926</urlsolve>
+<thumbnail>https://dondever.online/wp-content/uploads/2020/10/Cocukluk-Novela-turca-en-espanol-capitulo-1-sub-en-espanol-ver-online-2020.jpg</thumbnail>
+<fanart>https://turkish123.com/wp-content/uploads/Cocukluk-with-English-Subtitles.jpg</fanart>
+</item>
+
+<item>
+<title>Yetim / Cap 6</title>        
+<urlsolve>https://ok.ru/video/1897905064510</urlsolve>
+<thumbnail>https://dondever.online/wp-content/uploads/2020/10/Cocukluk-Novela-turca-en-espanol-capitulo-1-sub-en-espanol-ver-online-2020.jpg</thumbnail>
+<fanart>https://turkish123.com/wp-content/uploads/Cocukluk-with-English-Subtitles.jpg</fanart>
+</item>
+
+<item>
+<title>Yetim / Cap 7</title>        
+<urlsolve>https://ok.ru/video/1898117270078</urlsolve>
+<thumbnail>https://dondever.online/wp-content/uploads/2020/10/Cocukluk-Novela-turca-en-espanol-capitulo-1-sub-en-espanol-ver-online-2020.jpg</thumbnail>
+<fanart>https://turkish123.com/wp-content/uploads/Cocukluk-with-English-Subtitles.jpg</fanart>
+</item>
+
+<item>
+<title>Yetim / Cap 8</title>        
+<urlsolve>https://ok.ru/video/1898141911614</urlsolve>
+<thumbnail>https://dondever.online/wp-content/uploads/2020/10/Cocukluk-Novela-turca-en-espanol-capitulo-1-sub-en-espanol-ver-online-2020.jpg</thumbnail>
+<fanart>https://turkish123.com/wp-content/uploads/Cocukluk-with-English-Subtitles.jpg</fanart>
+</item>
+
+<item>
+<title>Yetim / Cap 9</title>        
+<urlsolve>https://ok.ru/video/1904858696254</urlsolve>
+<thumbnail>https://dondever.online/wp-content/uploads/2020/10/Cocukluk-Novela-turca-en-espanol-capitulo-1-sub-en-espanol-ver-online-2020.jpg</thumbnail>
+<fanart>https://turkish123.com/wp-content/uploads/Cocukluk-with-English-Subtitles.jpg</fanart>
+</item>
+
+<item>
+<title>Yetim / Cap 10</title>        
+<urlsolve>https://ok.ru/video/1948794948158</urlsolve>
+<thumbnail>https://dondever.online/wp-content/uploads/2020/10/Cocukluk-Novela-turca-en-espanol-capitulo-1-sub-en-espanol-ver-online-2020.jpg</thumbnail>
+<fanart>https://turkish123.com/wp-content/uploads/Cocukluk-with-English-Subtitles.jpg</fanart>
+</item>
+
+<item>
+<title>Yetim / Cap 11 Final</title>        
+<urlsolve>https://ok.ru/video/1966993705534</urlsolve>
+<thumbnail>https://dondever.online/wp-content/uploads/2020/10/Cocukluk-Novela-turca-en-espanol-capitulo-1-sub-en-espanol-ver-online-2020.jpg</thumbnail>
+<fanart>https://turkish123.com/wp-content/uploads/Cocukluk-with-English-Subtitles.jpg</fanart>
+</item>
+
+<item>
+<title>Yetim / Cap </title>        
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Yetim / Cap </title>        
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>        
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
